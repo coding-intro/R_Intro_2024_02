@@ -19,7 +19,7 @@ Be sure to register through the link sent to you via e-mail since we purchased a
 **Unit 1 - Deck 1: Welcome**
 
 ::: slides
-[Slides](https://coding-intro.github.io/intro-tidyverse-2023-06/slides/u1-d01-welcome/u1-d01-welcome.html)
+[Slides](https://coding-intro.github.io/R_Intro_2024_02/slides/u1-d01-welcome/u1-d01-welcome.html)
 :::
 :::
 
@@ -29,7 +29,7 @@ Be sure to register through the link sent to you via e-mail since we purchased a
 Please open your Posit Cloud for this exercise.
 
 ::: source
-[Source](https://github.com/coding-intro/intro-tidyverse-2023-06/blob/master/docs/application-exercises/ae-01a-un-votes/unvotes.Rmd)
+[Source](https://github.com/coding-intro/R_Intro_2024_02/blob/master/docs/application-exercises/ae-01a-un-votes/unvotes.Rmd)
 :::
 :::
 
@@ -37,7 +37,7 @@ Please open your Posit Cloud for this exercise.
 **Unit 1 - Deck 2: Meet the toolkit --- Programming**
 
 ::: slides
-[Slides](https://coding-intro.github.io/intro-tidyverse-2023-06/slides/u1-d02-toolkit-r/u1-d02-toolkit-r.html)
+[Slides](https://coding-intro.github.io/R_Intro_2024_02/slides/u1-d02-toolkit-r/u1-d02-toolkit-r.html)
 :::
 
 ::: reading
@@ -52,17 +52,17 @@ Please open your Posit Cloud for this exercise.
 Please open your Posit Cloud for this exercise.
 
 ::: source
-[Exercise template](https://github.com/coding-intro/intro-tidyverse-2023-06/blob/master/docs/application-exercises/ae-02-bechdel-rmarkdown/bechdel.Rmd)
+[Exercise template](https://github.com/coding-intro/R_Intro_2024_02/blob/master/docs/application-exercises/ae-02-bechdel-rmarkdown/bechdel.Rmd)
 :::
 
 ::: source
-[Solution, `.Rmd` file](https://github.com/coding-intro/intro-tidyverse-2023-06/blob/master/docs/application-exercises/ae-02-bechdel-rmarkdown/bechdel-solution.Rmd)
+[Solution, `.Rmd` file](https://github.com/coding-intro/R_Intro_2024_02/blob/master/docs/application-exercises/ae-02-bechdel-rmarkdown/bechdel-solution.Rmd)
 :::
 
 ::: reading
 The exercise uses data from [this FiveThirtyEight story](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/) on the [Bechdel Test](https://en.wikipedia.org/wiki/Bechdel_test).
 
 Hickey, W.
-(2014, April 1): [The Dollar-And-Cents Case Against Hollywood's Exclusion of Women](https://github.com/lukas-jue/intro-tidyverse-2023-january/blob/master/docs/application-exercises/ae-02-bechdel-rmarkdown/bechdel.Rmd), *FiveThirtyEight.com*
+(2014, April 1): [The Dollar-And-Cents Case Against Hollywood's Exclusion of Women](https://github.com/coding-intro/R_Intro_2024_02/blob/master/docs/application-exercises/ae-02-bechdel-rmarkdown/bechdel.Rmd), *FiveThirtyEight.com*
 :::
 :::

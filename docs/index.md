@@ -93,13 +93,13 @@ DAY 1 (Feb. 16th)
 | *Coffee Break*  | 10:30 -- 11:00 |
 | Workshop Part 2 | 11:00 -- 12:30 |
 
-DAY 1 (Feb. 16th)
+DAY 2 (Feb. 23rd)
 
 | Part            | Time           |
 |-----------------|----------------|
-| Workshop Part 1 | 09:00 -- 10:30 |
+| Workshop Part 3 | 09:00 -- 10:30 |
 | *Coffee Break*  | 10:30 -- 11:00 |
-| Workshop Part 2 | 11:00 -- 12:30 |
+| Workshop Part 4 | 11:00 -- 12:30 |
 
 We want you to *make your hands dirty* --- that means we want you to code!
 Just following along fancy slides won't magically transfer the skill of coding to you.
