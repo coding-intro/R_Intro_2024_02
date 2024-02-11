@@ -54,6 +54,5 @@ In between the three sessions, you are encouraged to work on provided exercises 
 In the last three years, your trainers have developed and taught TechAcademy's Data Science with R program at Goethe University.
 They use data science methods and R daily in their academic and non-academic jobs.
 
--   [Lukas Jürgensmeier](https://lukas-juergensmeier.com), M.Sc., PhD Student in Quantitative Marketing and Member of the Executive Board at TechAcademy e.V.
 -   [Matteo Fina](https://www.marketing.uni-frankfurt.de/professoren/otter/wissenschaftliche-mitarbeiter/matteo-fina.html), M.Sc., PhD Student at GSEFM in Economics
 -   Jan Bischoff, Business and Economics Student, R/Python Teacher and Course Designer at TechAcademy e.V.

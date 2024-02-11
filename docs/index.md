@@ -4,8 +4,8 @@ site: bookdown::bookdown_site
 title: "Introduction to Data Science with R and Tidyverse"
 author: "Lukas Jürgensmeier, based on materials from Data Science in a Box by Mine Çetinkaya-Rundel"
 description: "Data Science in a Box contains the materials required to teach (or learn from) the course described above, all of which are freely-available and open-source."
-date: "2023-07-12"
-github-repo: https://github.com/coding-intro/intro-tidyverse-2023-06
+date: "2024-02-11"
+github-repo: https://github.com/coding-intro/R_Intro_2024_02
 cover-image: dsbox.png
 url: 'https\://datasciencebox.org/'
 documentclass: book
@@ -18,7 +18,7 @@ Welcome to the course website for
 
 **Introduction to Data Science with R and Tidyverse**
 
-offered for GRADE Brain and other GRADE Centers at Goethe University in July 2023.
+offered for GRADE Brain and other GRADE Centers at Goethe University in February 2024.
 This website serves as the central repository for all course materials.
 Here, you will find all slides, lecture materials, and links to your online development environment.
 
@@ -82,18 +82,24 @@ We will send out detailed instructions and an invitation link in advance.
 
 ## Course Organization
 
-We will meet on July 12th 2023 from 09:00 -- 17:00 in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)).
+We will meet on February 16th and 23rd 2024 from 09:00 -- 12:00 in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)).
 Here is a rough timetable, depending on our progress:
+
+DAY 1 (Feb. 16th)
 
 | Part            | Time           |
 |-----------------|----------------|
 | Workshop Part 1 | 09:00 -- 10:30 |
 | *Coffee Break*  | 10:30 -- 11:00 |
 | Workshop Part 2 | 11:00 -- 12:30 |
-| *Lunch Break*   | 12:30 -- 13:30 |
-| Workshop Part 3 | 13:30 -- 15:00 |
-| *Coffee Break*  | 15:00 -- 15:30 |
-| Workshop Part 4 | 15:30 -- 17:00 |
+
+DAY 1 (Feb. 16th)
+
+| Part            | Time           |
+|-----------------|----------------|
+| Workshop Part 1 | 09:00 -- 10:30 |
+| *Coffee Break*  | 10:30 -- 11:00 |
+| Workshop Part 2 | 11:00 -- 12:30 |
 
 We want you to *make your hands dirty* --- that means we want you to code!
 Just following along fancy slides won't magically transfer the skill of coding to you.
@@ -150,8 +156,6 @@ We suggest two textbook references:
 ## Trainers
 
 Feel free to reach out to us by e-mail if you have any questions before, during, or after the course:
-
--   **Lukas Jürgensmeier**, M.Sc., PhD Student in Quantitative Marketing, [send me an e-mail](mailto:juergensmeier@wiwi.uni-frankfurt.de)
 
 -   **Matteo Fina**, M.Sc., PhD Student at GSEFM in Economics, [send me an e-mail](mailto:matteo.fina@its.uni-frankfurt.de)
 
