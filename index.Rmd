@@ -82,8 +82,8 @@ We will send out detailed instructions and an invitation link in advance.
 
 ## Course Organization
 
-We will meet on February 16th and 23rd 2024 from 09:00 -- 12:00 in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)).
-Here is a rough timetable, depending on our progress:
+We will meet on February 16th and 23rd 2024 from 09:00 -- 12:30 in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)).
+Here is a rough timetable, depending on our progress we may change this up a little:
 
 DAY 1 (Feb. 16th)
 
