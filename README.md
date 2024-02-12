@@ -3,7 +3,7 @@
 # Introduction to Data Science with R and Tidyverse
 
 This repository contains all materials for the course *Introduction to Data Science with R and Tidyverse*, offered for GRADE Brain and other GRADE Centers at Goethe University.
-Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/intro-tidyverse-2023-06/).
+Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/R_Intro_2024_02/).
 
 # Course Objective
 
